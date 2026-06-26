@@ -1,0 +1,5 @@
+#Ignore diretórios
+PlantVillage-Dataset-master/
+
+#Ignore arquivos
+*.zip
