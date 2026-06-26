@@ -58,7 +58,7 @@ modelo = modelo.to(device)
 criterio_erro = nn.CrossEntropyLoss() # A função matemática de perda
 otimizador = optim.Adam(modelo.fc.parameters(), lr=0.001) # Otimiza APENAS a nova camada final
 
-EPOCAS = 10
+EPOCAS = 2
 
 print("Iniciando o Treinamento...")
 
