@@ -3,3 +3,4 @@ PlantVillage-Dataset-master/
 
 #Ignore arquivos
 *.zip
+.gitignore
